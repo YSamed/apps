@@ -1,0 +1,16 @@
+name: Yalqen
+description: 'Open-source developer browser for macOS with vertical tabs, a keyboard-first command bar and built-in ad blocking.'
+website: 'https://yalqen.com'
+repository: 'https://github.com/YSamed/yalqen'
+keywords:
+  - browser
+  - developer
+  - vertical-tabs
+  - adblock
+  - privacy
+license: MIT
+category: Developer Tools
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/YSamed/yalqen/main/design/screenshots/website-light.png'
+    caption: 'Yalqen website'
+    imageLink: 'https://yalqen.com'
